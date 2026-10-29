@@ -1,2 +1,5 @@
-Student MAnagement Ssytem
-Feature update
+<<<<<<< HEAD
+Main branch
+=======
+developer2
+>>>>>>> developer2
